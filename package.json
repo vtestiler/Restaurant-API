@@ -20,10 +20,10 @@
       "ecmaVersion": 7,
       "sourceType": "module"
     },
-    "env":{
+    "env": {
       "node": true
     },
-    "rules":{
+    "rules": {
       "no-console": 0,
       "no-unuser-vars": 1
     }
